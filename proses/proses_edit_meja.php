@@ -12,10 +12,10 @@ if (!empty($_POST['edit_order_validate'])) {
         $query = mysqli_query($conn, "UPDATE tb_meja SET status = 'Tersedia' WHERE `no.meja` = '$nomor_meja';");
     }
     if ($query) {
-        $message = '<script>alert("Data berhasil dimasukan");
+        $message = '<script>alert("Status ketersediaan meja berhasil dirubah");
                 window.location="../meja"</script>';
     } else {
-        $message = '<script>alert("Data gagal dimasukan");
+        $message = '<script>alert("Status ketersediaan meja gagal dirubah");
                 window.location="../meja"</script>';
     }
 }
