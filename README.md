@@ -27,8 +27,8 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
 ## Dokumentasi
 - Dokumen Informasi: https://docs.google.com/document/d/1oA_m-lYtUBCD7jw6Y9t0cUuFTCdrs9BQpZ2gS5UfTBo/edit?usp=sharing
 - Dokumen Analisis: https://docs.google.com/document/d/1zaOOopUDS3v3XNdGdeguMDAWo6RRnY-zZYKoLsYSBiM/edit?usp=sharing
-- Product Requirements:
-- Produk Bisnis: 
+- Product Requirements: https://docs.google.com/document/d/1aGlAbbvhIJLCmEx7zqkqIB1Y_n8w8f2c9gk1-qIY7yo/edit?usp=sharing
+- Produk Bisnis: https://docs.google.com/document/d/1pnC4aDXzEeifqMe_fLExsvoDAvRyGw1kJt6jQX6Kw68/edit?usp=sharing
 - Perancangan: 
 - Draw.io: https://drive.google.com/file/d/1YNsG4zw6JLiYx8H1nIjj9wStDvZF0wbn/view
 - Figma: https://www.figma.com/design/sHYa8oPiCyxqPutgyLOBGq/RPL?node-id=0-1&t=dhmrN6dwUlJnfdX3-1
