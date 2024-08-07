@@ -32,4 +32,4 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
 - Perancangan: 
 - Draw.io: https://drive.google.com/file/d/1YNsG4zw6JLiYx8H1nIjj9wStDvZF0wbn/view
 - Figma: https://www.figma.com/design/sHYa8oPiCyxqPutgyLOBGq/RPL?node-id=0-1&t=dhmrN6dwUlJnfdX3-1
-- Website Host: 
+- Website Host: http://diegaststatte.000.pe
