@@ -59,6 +59,8 @@
                 }elseif(isset($_GET['x']) && $_GET['x']=='orderitem'){
                     include "order_item.php";
                 // HERE
+                }elseif(isset($_GET['x']) && $_GET['x']=='viewitem'){
+                    include "view_item.php";
                 }elseif(isset($_GET['x']) && $_GET['x']=='meja'){
                     include "meja.php";
                 // HERE
