@@ -1,27 +1,28 @@
+# Aplikasi Pemesanan Cafe (Die Gaststatte)
 Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada cafe, restoran, rumah makan atau yang sejeninsnya.
 
-# Pemilik/admin
-  - Melihat laporan
-  - Menambah/mengubah/menghapus daftar menu dan harga
-  - Menambah/mengubah/menghapus user
+## Pemilik/admin
+- Melihat laporan
+- Menambah/mengubah/menghapus daftar menu dan harga
+- Menambah/mengubah/menghapus user
 
-# Kasir
-  - Melihar harga dan total harga pesanan
-  - Konfirmasi pembayanan
-  - Membuat bukti pembayaran
+## Kasir
+- Melihat harga dan total harga pesanan
+- Konfirmasi pembayanan
+- Membuat bukti pembayaran
 
-# Pelayan
-  - Melihat menu dan harga
-  - Memilih menu
-  - Melihat total harga pesanan
-  - Membuat pesanan
-  - Update pesanan
-  -Hapus pesanan
+## Pelayan
+- Melihat menu dan harga
+- Memilih menu
+- Melihat total harga pesanan
+- Membuat pesanan
+- Update pesanan
+- Hapus pesanan
 
-# Dapur
-  - Menerima pesanan
-  - Konfirmasi terima pesanan
-  - Mengubah status pesanana "siap saji"
+## Dapur
+- Menerima pesanan
+- Konfirmasi terima pesanan
+- Mengubah status pesanana "siap saji"
 
 # Dokumentasi
 - Dokumen Analisis: https://docs.google.com/document/d/1Bm9WWtEFfdMWm9ItrluPj9wYo3KNE0w7gA1VmLVsZ18/edit?usp=sharing
