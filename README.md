@@ -29,7 +29,7 @@ Sebuah aplikasi yang dapat digunakan untuk pemesanan minuman dan makanan pada ca
 - Dokumen Analisis: https://docs.google.com/document/d/1zaOOopUDS3v3XNdGdeguMDAWo6RRnY-zZYKoLsYSBiM/edit?usp=sharing
 - Product Requirements: https://docs.google.com/document/d/1aGlAbbvhIJLCmEx7zqkqIB1Y_n8w8f2c9gk1-qIY7yo/edit?usp=sharing
 - Produk Bisnis: https://docs.google.com/document/d/1pnC4aDXzEeifqMe_fLExsvoDAvRyGw1kJt6jQX6Kw68/edit?usp=sharing
-- Perancangan: 
+- Perancangan: https://docs.google.com/document/d/1lDyc5sWCdYhCSBl4V3zkd3N4Q-0mBzGaTTZ7qNsnGrg/edit?usp=sharing
 - Draw.io: https://drive.google.com/file/d/1YNsG4zw6JLiYx8H1nIjj9wStDvZF0wbn/view
 - Figma: https://www.figma.com/design/sHYa8oPiCyxqPutgyLOBGq/RPL?node-id=0-1&t=dhmrN6dwUlJnfdX3-1
 - Website Host: http://diegaststatte.000.pe
